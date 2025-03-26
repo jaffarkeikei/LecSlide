@@ -1,7 +1,5 @@
 # LecSlide
 
-![LecSlide Logo](./public/images/lecslide-logo.png)
-
 > **Transform lecture slides into interactive, AI-powered study resources**
 
 LecSlide is a student-centric platform that leverages AI to enhance learning by converting static lecture slides into dynamic study materials with summaries, concept maps, practice questions, and visual aids.
@@ -132,8 +130,8 @@ sequenceDiagram
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/lecslide.git
-cd lecslide
+git clone https://github.com/jaffarkeikei/LecSlide.git
+cd LecSlide
 
 # Install dependencies
 npm install
@@ -161,7 +159,7 @@ graph TD
     subgraph Backend
         E[Node.js] --> F[Express]
         F --> G[MongoDB]
-        F --> H[OpenAI API]
+        F --> H[Google API]
         F --> I[Cloud Storage]
     end
     
