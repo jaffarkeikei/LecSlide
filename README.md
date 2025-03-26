@@ -143,7 +143,6 @@ cp .env.example .env
 # Start development server
 npm run dev
 
-# Open http://localhost:3000 in your browser
 ```
 
 ## 💻 Tech Stack
