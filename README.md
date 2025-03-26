@@ -11,7 +11,6 @@ LecSlide is a student-centric platform that leverages AI to enhance learning by 
 - [User Workflow](#user-workflow)
 - [Getting Started](#getting-started)
 - [Tech Stack](#tech-stack)
-- [Roadmap](#roadmap)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -166,35 +165,6 @@ graph TD
         J[Docker] --> K[CI/CD Pipeline]
         K --> L[Cloud Deployment]
     end
-```
-
-## Roadmap
-
-```mermaid
-gantt
-    title LecSlide Development Roadmap
-    dateFormat YYYY-MM-DD
-    
-    section Phase 1 (MVP)
-    Basic File Upload            :2023-07-01, 30d
-    Text Extraction              :2023-07-15, 30d
-    AI Summarization             :2023-08-01, 45d
-    Simple User Interface        :2023-08-15, 30d
-    
-    section Phase 2
-    Interactive Diagrams         :2023-09-15, 60d
-    Practice Questions           :2023-10-01, 45d
-    Domain-Specific Templates    :2023-10-15, 60d
-    
-    section Phase 3
-    Mobile Applications          :2024-01-01, 90d
-    Multilingual Support         :2024-02-01, 60d
-    Analytics Dashboard          :2024-03-01, 45d
-    
-    section Phase 4
-    Adaptive Learning            :2024-05-01, 90d
-    Collaboration Features       :2024-06-01, 60d
-    Marketplace Integration      :2024-07-01, 60d
 ```
 
 ## Contributing
