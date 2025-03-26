@@ -4,7 +4,7 @@
 
 LecSlide is a student-centric platform that leverages AI to enhance learning by converting static lecture slides into dynamic study materials with summaries, concept maps, practice questions, and visual aids.
 
-## 📋 Table of Contents
+## Table of Contents
 - [Vision](#vision)
 - [Features](#features)
 - [Architecture](#architecture)
@@ -15,11 +15,11 @@ LecSlide is a student-centric platform that leverages AI to enhance learning by 
 - [Contributing](#contributing)
 - [License](#license)
 
-## 🔭 Vision
+## Vision
 
 > "To help students grasp lecture content more fully by generating concise summaries, interactive examples, and custom visual aids from existing slides, ultimately improving study effectiveness."
 
-## ✨ Features
+## Features
 
 ### Core Features
 
@@ -42,7 +42,7 @@ LecSlide is a student-centric platform that leverages AI to enhance learning by 
    - Specialized templates for different academic fields
    - Domain-aware AI responses tailored to the subject matter
 
-## 🏗️ Architecture
+## Architecture
 
 ### System Overview
 
@@ -95,7 +95,7 @@ flowchart TD
     AuthService <--> Users
 ```
 
-## 🔄 User Workflow
+## User Workflow
 
 ```mermaid
 sequenceDiagram
@@ -119,7 +119,7 @@ sequenceDiagram
     Student->>UI: Export or study directly
 ```
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 - Node.js (v16+)
@@ -145,7 +145,7 @@ npm run dev
 
 ```
 
-## 💻 Tech Stack
+## Tech Stack
 
 ```mermaid
 graph TD
@@ -168,7 +168,7 @@ graph TD
     end
 ```
 
-## 📅 Roadmap
+## Roadmap
 
 ```mermaid
 gantt
@@ -197,10 +197,10 @@ gantt
     Marketplace Integration      :2024-07-01, 60d
 ```
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License - see the LICENSE file for details. 
